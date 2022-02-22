@@ -1,0 +1,22 @@
+* {
+    margin: 0px;
+}
+
+div {
+    height: 33.3vh;
+    width: 33%;
+    margin: 0 auto;
+    display: inline-block;
+}
+
+.top-left, .top-middle, .top-right {
+    background-color: rgb(184, 184, 184);
+}
+
+.middle-left, .middle-middle, .middle-right {
+    background-color: gray;
+}
+
+.bottom-left, .bottom-middle, .bottom-right {
+    background-color: rgb(77, 77, 77);
+}
