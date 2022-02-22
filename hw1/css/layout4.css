@@ -1,0 +1,33 @@
+* {
+    margin: 0px;
+}
+
+div {
+    text-align: center;
+}
+
+.header, .footer {
+    background-color: rgb(80, 80, 80);
+    color: white;
+    height: 10vh;
+}
+
+.navbar, .main-content, .sidebar {
+    height: 80vh;
+}
+
+.navbar, .sidebar {
+    display: inline-block;
+    width: 20%;
+    background-color: rgb(187, 187, 187);
+}
+
+.main-content {
+    display: inline-block;
+    width: 59%;
+    margin: 0px auto;
+    background-color: gray;
+}
+
+
+
