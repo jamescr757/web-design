@@ -1,0 +1,26 @@
+* {
+    margin: 0px;
+}
+
+div {
+    height: 100vh;
+    display: inline-block;
+}
+
+.c1, .c3 {
+    width: 20%;
+    background-color: rgb(176, 176, 176);
+}
+
+.c2 {
+    width: 59.2%;
+    margin: 0px auto;
+    background-color: rgb(77, 77, 77);
+    position: relative;
+    left: 5px;
+}
+
+.c3 {
+    position: relative;
+    left: 10px;
+}

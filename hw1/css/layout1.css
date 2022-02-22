@@ -1,0 +1,36 @@
+* {
+    margin: 0px;
+}
+
+div {
+    text-align: center;
+}
+
+.header {
+    background-color: gray;
+    color: white;
+    padding: 10px;
+}
+
+.sidebar {
+    display: inline-flex;
+    width: 19.8%;
+    height: 80vh;
+    align-items: center;
+    justify-content: center;
+}
+
+.main-content {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 79.8%;
+    height: 80vh;
+    background-color: rgb(194, 193, 193);
+}
+
+.footer {
+    background-color: rgb(62, 61, 61);
+    color: white;
+    padding: 10px;
+}
